@@ -8,7 +8,18 @@ Dataset diambil dari Kaggle: **Vehicle Dataset from CarDekho**.
 - **Features:** Present_Price, Kms_Driven, Fuel_Type, Seller_Type, Transmission, Owner, Age.
 - **Target:** Selling_Price.
 
-## 🛠️ Installation
-1. Clone repository:
-   ```bash
-   git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
+🛠️ Installation
+Clone repository:
+```bash
+git clone https://github.com/egiyudasebayang-collab/ML-Linear-Regression-car-price-prediction.git
+```
+
+Masuk ke folder:
+```bash
+cd ML-Linear-Regression-car-price-prediction
+```
+
+Install library:
+```bash
+pip install -r requirements.txt
+```
