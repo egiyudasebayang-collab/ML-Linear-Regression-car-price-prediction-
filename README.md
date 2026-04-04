@@ -23,3 +23,7 @@ Install library:
 ```bash
 pip install -r requirements.txt
 ```
+
+## 📈 Results
+...
+![Model Performance](images/car_pred.png)
